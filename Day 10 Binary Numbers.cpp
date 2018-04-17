@@ -25,4 +25,5 @@ int main()
     }
     cout << consecutiveOnesMax << endl;
     return 0;
-}
+} 
+
